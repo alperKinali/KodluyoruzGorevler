@@ -1,8 +1,0 @@
-diff a/src/NotOrtHesaplama/Main.java b/src/NotOrtHesaplama/Main.java	(rejected hunks)
-@@ -4,5 +4,6 @@
-     public static void main(String[] args) {
-         System.out.println("Test");
-         System.out.println("dasdsadsadsadsadsad");
-+        System.out.println("dasdsadsadsdsdasdasadsadsad");
-     }
- }
