@@ -1,4 +1,5 @@
 
-Not Ortalamasını Hesaplayan Program
-[Patika](https://app.patika.dev/Alperkinali)
+Not Ortalamasını Hesaplayan Program <br>
+
+[Patika Profilim](https://app.patika.dev/Alperkinali)
 
