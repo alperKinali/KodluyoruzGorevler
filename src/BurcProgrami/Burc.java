@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Burc {
     public static void main(String[] args) {
+        /*
         System.out.println("Burç Bulan Program");
 
         Scanner scanner= new Scanner(System.in);
@@ -41,9 +42,23 @@ public class Burc {
 
         }
 
+         */
+
+        int sum = 0;
+        for (int i = 0, j = 0; i < 5 || j < 5; ++i, j = i + 1) {
+            sum += i;
+        }
+        System.out.println(sum);
+
+
+
+
+
+
 
 
 
 
     }
+
 }
